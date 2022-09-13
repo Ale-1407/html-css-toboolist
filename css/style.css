@@ -20,3 +20,35 @@
 #header-logo{
     margin-top: 10px;
 }
+main{
+    background-color: #f6f8f9;
+
+}
+
+.container1{
+    width: 800px;
+    height: 60px;
+    background-color: white;
+    margin: auto;
+}
+
+#button1{
+    background-color: #47adf1;
+    color: white;
+    width: 80px;
+    height: 25px;
+    border: 1px solid #47adf1;
+    border-radius: 4px;
+    margin-top: 17px;
+    margin-left: 40px;
+}
+#button2{
+    background-color: #ffffff;
+    color: #d8dce0;
+    width: 80px;
+    height: 25px;
+    border: 1px solid #d8dce0;
+    border-radius: 4px;
+    margin-top: 17px;
+
+}
