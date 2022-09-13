@@ -71,6 +71,27 @@ h4::before{
     content: '\25BE';
 }
 
+.circle{
+    
+    border-radius: 50%;
+    color: #64c0a9;
+    border: 1px solid #64c0a9;
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+}
+
+.circle2{
+    border-radius: 50%;
+    color: #ed6b65;
+    border: 1px solid #ed6b65;
+    display: inline-block;
+    text-align: center;
+    width: 20px;
+    height: 20px;
+}
+
 .blue{
     background-color: #47adf1;
     color: white;
@@ -85,6 +106,7 @@ ul{
 }
 
 li{
+    
     padding-top: 15px;
 }
 
